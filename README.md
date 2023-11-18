@@ -1,7 +1,8 @@
 # Character-to-Binary-Rust
-This is a simple operation that is used to convert character to binary using Rust.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+This is a simple operation that is used to convert character to binary using Rust.
 
 ![Screenshot from 2023-11-13 13-56-51](https://github.com/Krupal-create/Character-to-Binary-Rust/assets/85097081/4d313556-485f-401a-a60d-e1d6751f2c3e)
 
